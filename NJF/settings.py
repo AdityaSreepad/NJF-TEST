@@ -1,4 +1,3 @@
-@@ -1,126 +0,0 @@
 """
 Django settings for NJF project.
 
